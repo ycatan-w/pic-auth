@@ -1,5 +1,5 @@
 {
-  "name": "yokai/pic-auth",
+  "name": "crayon/pic-auth",
   "description": "pic-auth is a library to authenticate using images",
   "type": "library",
   "version": "0.0.0",

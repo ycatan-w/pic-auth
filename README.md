@@ -27,7 +27,7 @@ Before installing PicAuth, you must add the repository to your `composer.json`:
 {
   "repositories": [
     {
-      "type": "path",
+      "type": "vcs",
       "url": "git@github.com:ycatan-w/pic-auth.git"
     }
   ]
